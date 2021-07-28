@@ -62,13 +62,7 @@
 
 ---
 
-<p align="center">
-<a href="https://twitter.com/DiscordAnaxes" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dsc.bio/anaxes" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reddit.com/u/DiscordAnaxes" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pb.anaxes.xyz"><img alt="Potatoe Bot" title="PBOT's Website" height="32" width="32" 
-src="https://i.ibb.co/6NrBXKf/Normal-Flickz-cropped.png" draggable=false></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 <p align="center">
   <a href="https://discord.com/users/868976152901976117">
     <img src="https://lanyard-profile-readme.vercel.app/api/868976152901976117" alt="Discord Profile"/>
